@@ -1,7 +1,7 @@
 # CSV Dataset Splitter GUI Application
 
 ## Overview
-The CSV Dataset Splitter GUI Application is a Python-based tool developed using Tkinter and pandas. It provides a user-friendly interface for splitting large CSV datasets into smaller files, enhancing data processing efficiency for analysts and researchers.
+The CSV Dataset Splitter GUI Application is a Python-based tool developed using Tkinter and pandas. It provides a user-friendly interface for splitting large CSV datasets into smaller files, enhancing data processing efficiency for beginner analysts.
 
 ## Features
 - GUI interface for selecting CSV files and specifying splitting parameters.
